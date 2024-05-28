@@ -1,0 +1,52 @@
+[
+    {
+        "surname": "Johnson",
+        "grades": {
+            "math": 75,
+            "history": 80,
+            "science": 78,
+            "english": 82,
+            "art": 80
+        }
+    },
+    {
+        "surname": "Jones",
+        "grades": {
+            "math": 80,
+            "history": 75,
+            "science": 82,
+            "english": 78,
+            "art": 80
+        }
+    },
+    {
+        "surname": "Davis",
+        "grades": {
+            "math": 88,
+            "history": 85,
+            "science": 90,
+            "english": 86,
+            "art": 89
+        }
+    },
+    {
+        "surname": "Wilson",
+        "grades": {
+            "math": 78,
+            "history": 85,
+            "science": 80,
+            "english": 82,
+            "art": 79
+        }
+    },
+    {
+        "surname": "Taylor",
+        "grades": {
+            "math": 90,
+            "history": 92,
+            "science": 88,
+            "english": 91,
+            "art": 89
+        }
+    }
+]
